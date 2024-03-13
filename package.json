@@ -1,0 +1,21 @@
+{
+  "name": "@junn/rescript-country-locale",
+  "version": "0.0.1",
+  "description": "Rescript country locale map with deep-search",
+  "main": "index.js",
+  "author": {
+    "name": "Afrian Junior",
+    "email": "afrian.junior26@gmail.com"
+  },
+  "files": [
+    "main.res"
+  ],
+  "peerDependencies": {
+    "rescript": "^10.1.0 || ^11.0.0-alpha.0"
+  },
+  "devDependencies": {
+    "rescript": "^10.1.4"
+  },
+  "license": "MIT",
+  "private": false
+}
